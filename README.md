@@ -1,4 +1,4 @@
-<h1 align="center">Ку 👋 Я Еремей</h1>
+<h1 align="center">Ку <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Я Еремей</h1>
 <h3 align="center">Прокрастинатор и п*тонист</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eremeyko&label=%D0%A7%D0%B5%D0%BA%D0%BD%D1%83%D0%BB%D0%B8%20%D1%80%D0%B0%D0%B7%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C:&color=78c6fd&style=flat" alt="eremeyko" /> </p>
