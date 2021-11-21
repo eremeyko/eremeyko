@@ -2,7 +2,7 @@
 <p align="center"><img src="https://svgshare.com/i/cAt.svg"><br/>
   <a href="https://t.me/framei"
     ><img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?color=78c6fd&style=for-the-badge&logo=telegram&logoColor=white"
+      src="https://svgshare.com/i/cB0.svg"
   /></a>
   <a href="https://vk.com/eremey"
     ><img
