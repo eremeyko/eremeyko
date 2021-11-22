@@ -3,8 +3,7 @@
   <a href="https://t.me/framei"
     ><img
       src="https://svgshare.com/i/cB0.svg"
-  /></a>
-  <a href="https://vk.com/eremey"
+  /></a><a href="https://vk.com/eremey"
     ><img
       src="https://img.shields.io/badge/VKontakte-%232E87FB?color=5e7aef&style=for-the-badge&logo=vk&logoColor=white"
       alt="ВКонтакте"
