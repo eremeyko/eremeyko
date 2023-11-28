@@ -1,6 +1,6 @@
 <h1 align="center">Ку <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Я Еремей</h1>
 <p align="center"><img src="https://svgshare.com/i/cAt.svg"><br/>
-  <a href="https://t.me/framei"
+  <a href="https://t.me/EPEMEN"
     ><img
       src="https://svgshare.com/i/cB0.svg"
   /></a><a href="https://vk.com/eremey"
